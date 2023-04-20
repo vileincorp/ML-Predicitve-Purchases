@@ -33,6 +33,13 @@ Results:
 
 In total we analyzed 12,330 different interactions with 27 variables and our final model had an F1 of 94% and a cross validation score of 90.5% of all buying signals, versus the base model with an F1 of 84% and a cross validate score of 73%. 
 
+Dummy Model:
+![Dummy_Pipe_graph](https://user-images.githubusercontent.com/124652720/233489261-619ed60b-78a6-4a61-8bd0-e02b7752c8ad.png)
+
+Final Model:
+![Forest Pipe Final](https://user-images.githubusercontent.com/124652720/233489379-fbd386c4-ca32-43ee-b83e-98529c41e2d8.png)
+
+
 - Embeds cookies into their pages and when a prospect shows 70% of buying signals, incentvize them with offers
 - Expand their product description and convert pages to Sales Funnels to reduce bouncing/exiting by keeping people better engaged
 - Market before Holidays and provide special offers during weekends as well as product launches
