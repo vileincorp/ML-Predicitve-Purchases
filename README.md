@@ -41,6 +41,7 @@ Final Model:
 ![Forest Pipe Final](https://user-images.githubusercontent.com/124652720/233489379-fbd386c4-ca32-43ee-b83e-98529c41e2d8.png)
 
 
+Recommendations: 
 - Embeds cookies into their pages and when a prospect shows 70% of buying signals, incentvize them with offers
 - Expand their product description and convert pages to Sales Funnels to reduce bouncing/exiting by keeping people better engaged
 - Market before Holidays and provide special offers during weekends as well as product launches
