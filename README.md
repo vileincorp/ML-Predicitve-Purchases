@@ -1,1 +1,1 @@
-# ML-Predicitve-Purchases
+# ML-Prediciting Customers
