@@ -1,5 +1,6 @@
 # ML-Prediciting Customers
 
+![c6829314-6d25-4156-ab6a-5603b2e8af38](https://user-images.githubusercontent.com/124652720/233491668-a2e01420-b032-4c4f-9a33-ac80899d9856.png)
 
 Overview: 
 
