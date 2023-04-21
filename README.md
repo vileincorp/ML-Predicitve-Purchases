@@ -10,7 +10,7 @@ Recommendations:
 
 - Embeds cookies into their pages and when a prospect shows 70% of buying signals, incentvize them with offers
 - Expand their product description and convert pages to Sales Funnels to reduce bouncing/exiting by keeping people better engaged
-- Market before Holidays and provide special offers during weekends as well as product launches
+- Market before Holidays and provide special offers during weekdays as well as product launches
 
 
 Business Problem: 
