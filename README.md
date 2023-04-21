@@ -34,6 +34,10 @@ Results:
 
 In total we analyzed 12,330 different interactions with 27 variables and our final model had an F1 of 94% and a cross validation score of 90.5% of all buying signals, versus the base model with an F1 of 84% and a cross validate score of 73%. 
 
+F1 Score Comparisions (Dummy vs Decision Tree)
+![F1_Score Comparison](https://user-images.githubusercontent.com/124652720/233681335-8f0d1874-a7ae-4c49-beb1-24a9403a2b7c.png)
+
+
 Dummy Model:
 ![Dummy_Pipe_graph](https://user-images.githubusercontent.com/124652720/233489261-619ed60b-78a6-4a61-8bd0-e02b7752c8ad.png)
 
