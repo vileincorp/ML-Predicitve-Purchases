@@ -32,7 +32,7 @@ First we examined the data set for a basic analyazation and determined correlati
 
 Results: 
 
-In total we analyzed 12,330 different interactions with 27 variables and our final model had an F1 of 94% and a cross validation score of 90.5% of all buying signals, versus the base model with an F1 of 84% and a cross validate score of 73%. 
+In total there were  12,330 different interactions analyzed across 27 variables and our final model had an F1 of 94% and a cross validation score of 90.5%, versus the base model with an F1 of 84% and a cross validate score of 73%. 
 
 F1 Score Comparisions (Dummy vs Decision Tree)
 ![F1_Score Comparison](https://user-images.githubusercontent.com/124652720/233681335-8f0d1874-a7ae-4c49-beb1-24a9403a2b7c.png)
@@ -48,7 +48,7 @@ Final Model:
 Recommendations: 
 - Embeds cookies into their pages and when a prospect shows 70% of buying signals, incentvize them with offers
 - Expand their product description and convert pages to Sales Funnels to reduce bouncing/exiting by keeping people better engaged
-- Market before Holidays and provide special offers during weekends as well as product launches
+- Market before Holidays and provide special offers during weekdays as well as product launches
 
 Going Foward: 
 
